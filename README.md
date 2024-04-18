@@ -196,6 +196,6 @@
     - **Highest Package (approx.):** ₹18.0 Lakhs
     - **Festivals:** Expressions
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
-  <a href="https://github.com/AryanVBw">
+  <a href="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/main/table.md">
 <img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="200" alt="vivek"></a>
  <h3>Tap the arrow to view detailed college chart for easy side-by-side comparison!</h3></p>
