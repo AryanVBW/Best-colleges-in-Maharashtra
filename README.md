@@ -1,7 +1,6 @@
 🎓 **Best Engineering Colleges in Maharashtra**
  <p align="center">
-   <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+ 
 
 ### Pune
 1. **College of Engineering Pune (COEP)**
@@ -197,3 +196,6 @@
     - **Highest Package (approx.):** ₹18.0 Lakhs
     - **Festivals:** Expressions
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
+  <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="200" alt="vivek"></a>
+ <h3>Tap the arrow to view detailed college chart for easy side-by-side comparison!</h3></p>
