@@ -132,9 +132,15 @@
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
 13. **Laxminarayan Institute of Technology (LIT Nagpur)**
+    - Entrance Exam: MHT CET
+    - Minimum Percentile (MHT CET): 92+ (General)
+    - Fees (approx. per year): ₹70,000
+    - Avg Package (approx.): ₹5.0 Lakhs
+    - Highest Package (approx.): ₹20.0 Lakhs
+    - Festivals: TechnoVIT
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-14. **Nagpur Institute of Technology (NIT Nagpur)**
+15. **Nagpur Institute of Technology (NIT Nagpur)**
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 90+ (General)
     - **Fees (approx. per year):** ₹65,000
