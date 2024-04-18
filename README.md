@@ -7,7 +7,7 @@
 1. **College of Engineering Pune (COEP)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/coep.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 99.8+ (General)
@@ -25,7 +25,7 @@
 3. **Symbiosis Institute of Technology (SIT Pune)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/sit.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.0+ (General)
@@ -38,7 +38,7 @@
 5. **Pune Institute of Computer Technology (PICT)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/pict.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.5+ (General)
@@ -53,7 +53,7 @@
 7. **Bharati Vidyapeeth College of Engineering (BVCOE)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/bvcoe.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 97.0+ (General)
@@ -70,7 +70,7 @@
 9. **Vishwakarma Institute of Technology (VIT), Pune**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/vit.jpg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 96.0+ (General)
