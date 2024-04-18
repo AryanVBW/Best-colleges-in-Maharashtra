@@ -7,7 +7,7 @@
 1. **College of Engineering Pune (COEP)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/coep.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/coep.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 99.8+ (General)
@@ -25,7 +25,7 @@
 3. **Symbiosis Institute of Technology (SIT Pune)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/sit.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/sit.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.0+ (General)
@@ -38,7 +38,7 @@
 5. **Pune Institute of Computer Technology (PICT)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/pict.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/pict.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.5+ (General)
@@ -53,7 +53,7 @@
 7. **Bharati Vidyapeeth College of Engineering (BVCOE)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/bvcoe.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/bvcoe.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 97.0+ (General)
@@ -70,7 +70,7 @@
 9. **Vishwakarma Institute of Technology (VIT), Pune**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/vit.jpg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vit.jpg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 96.0+ (General)
@@ -88,7 +88,7 @@
 6. **Veermata Jijabai Technological Institute (VJTI Mumbai)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/vjti.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vjti.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 99.7+ (General)
@@ -106,7 +106,7 @@
 8. **Institute of Chemical Technology (ICT Mumbai)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/ict.jpg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/ict.jpg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** JEE Main
    - **Minimum Percentile (MHT CET):** Not Applicable (considers JEE scores only)
@@ -119,7 +119,7 @@
 10. **KJ Somaiya College of Engineering**
 1<p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/kj.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/kj.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.5+ (General)
@@ -132,7 +132,7 @@
 11. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/frc.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/krc.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 97.5+ (General)
