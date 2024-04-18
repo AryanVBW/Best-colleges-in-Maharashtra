@@ -124,8 +124,13 @@
       <td>₹85,000</td>
       <td>₹7.0 Lakhs</td>
       <td>₹35.0 Lakhs</td>
-      <td>
+      
+        </tr>
+  </tbody>
+</table>
       <table>
+
+     
   <caption>Best Engineering Colleges in Nagpur</caption>
   <thead>
     <tr>
