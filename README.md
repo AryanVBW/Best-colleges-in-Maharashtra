@@ -170,7 +170,8 @@
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
 14. **Shri Ramdeobaba College of Engineering and Management (SRCOE Nagpur)**
-             <p align="center">
+
+     <p align="center">
              <a href="https://github.com/AryanVBw">
         <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/rcoem.jpeg" height="" alt="vivek"></a></p>
 
