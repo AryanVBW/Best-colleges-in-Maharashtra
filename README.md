@@ -147,7 +147,6 @@
  <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vnit.jpeg" height="" alt="vivek"></a></p>
-
     - **Entrance Exam:** JEE Main & GATE
     - **Minimum Percentile (MHT CET):** 85+ (General) for B.Tech
     - **Fees (approx. per year):** ₹1.0 Lakhs
