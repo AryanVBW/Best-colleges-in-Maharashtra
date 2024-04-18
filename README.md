@@ -145,7 +145,7 @@
 ### Nagpur
 
 1. **Visvesvaraya National Institute of Technology (VNIT Nagpur)**
-       <p align="center">
+    <p align="center">
          <a href="https://github.com/AryanVBw"><img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vnit.jpeg" height="" alt="vivek"></a></p>
          
     - **Entrance Exam:** JEE Main & GATE
@@ -157,7 +157,7 @@
     - **Branch Cut-offs (MHT CET, percentile):** Not Applicable (considers JEE scores only)
 
 2. **Government College of Engineering Nagpur (GCOEN)**
-       <p align="center">
+    <p align="center">
       <a href="https://github.com/AryanVBw">
        <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/gcoen.jpeg" height="" alt="vivek"></a></p>
   
