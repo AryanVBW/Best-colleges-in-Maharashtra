@@ -117,7 +117,7 @@
    - **Branch Cut-offs (MHT CET, percentile):** Not Applicable
 
 10. **KJ Somaiya College of Engineering**
-1<p align="center">
+<p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/kj.jpeg" height="" alt="vivek"></a></p>
 
