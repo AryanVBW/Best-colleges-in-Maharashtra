@@ -104,6 +104,10 @@
      - Electrical: 97.7+
 
 8. **Institute of Chemical Technology (ICT Mumbai)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/ict.jpg" height="" alt="vivek"></a></p>
+
    - **Entrance Exam:** JEE Main
    - **Minimum Percentile (MHT CET):** Not Applicable (considers JEE scores only)
    - **Fees (approx. per year):** ₹80,000
@@ -112,7 +116,11 @@
    - **Festivals:** Chemfest
    - **Branch Cut-offs (MHT CET, percentile):** Not Applicable
 
-9. **KJ Somaiya College of Engineering**
+10. **KJ Somaiya College of Engineering**
+1<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/kj.jpeg" height="" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.5+ (General)
    - **Fees (approx. per year):** ₹1.20 Lakhs
@@ -121,7 +129,11 @@
    - **Festivals:** KJS MUTFEST
    - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-10. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
+11. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/frc.jpeg" height="" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 97.5+ (General)
    - **Fees (approx. per year):** ₹85,000
@@ -132,6 +144,7 @@
 
 ### Nagpur
 10. **Visvesvaraya National Institute of Technology (VNIT Nagpur)**
+
     - **Entrance Exam:** JEE Main & GATE
     - **Minimum Percentile (MHT CET):** 85+ (General) for B.Tech
     - **Fees (approx. per year):** ₹1.0 Lakhs
@@ -140,8 +153,10 @@
     - **Festivals:** Ingenium
     - **Branch Cut-offs (MHT CET, percentile):** Not Applicable (considers JEE scores only)
 
-11. **Government College of Engineering Nagpur (GCOEN)**
-    - **Entrance Exam:** MHT CET
+12. **Government College of Engineering Nagpur (GCOEN)**
+
+
+   - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 95+ (General)
     - **Fees (approx. per year):** ₹50,000
     - **Avg Package (approx.):** ₹6.0 Lakhs
@@ -149,7 +164,7 @@
     - **Festivals:** Techno-GCT
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-12. **Shri Ramdeobaba College of Engineering and Management (SRCOE Nagpur)**
+14. **Shri Ramdeobaba College of Engineering and Management (SRCOE Nagpur)**
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 94+ (General)
     - **Fees (approx. per year):** ₹80,000
@@ -158,7 +173,7 @@
     - **Festivals:** Abhyudaya
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-13. **Laxminarayan Institute of Technology (LIT Nagpur)**
+15. **Laxminarayan Institute of Technology (LIT Nagpur)**
     - Entrance Exam: MHT CET
     - Minimum Percentile (MHT CET): 92+ (General)
     - Fees (approx. per year): ₹70,000
@@ -167,7 +182,7 @@
     - Festivals: TechnoVIT
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-15. **Nagpur Institute of Technology (NIT Nagpur)**
+16. **Nagpur Institute of Technology (NIT Nagpur)**
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 90+ (General)
     - **Fees (approx. per year):** ₹65,000
