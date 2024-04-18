@@ -22,7 +22,7 @@
      - Civil: 98.5+
      - Electrical: 98.0+
 
-3. **Symbiosis Institute of Technology (SIT Pune)**
+2. **Symbiosis Institute of Technology (SIT Pune)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/sit.jpeg" height="" alt="vivek"></a></p>
@@ -35,7 +35,7 @@
    - **Festivals:** Symbiosis Techfest
    - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-5. **Pune Institute of Computer Technology (PICT)**
+3. **Pune Institute of Computer Technology (PICT)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/pict.jpeg" height="" alt="vivek"></a></p>
@@ -50,7 +50,7 @@
      - Computer Science & Engineering: 98.5+
      - Other branches: Information not available
 
-7. **Bharati Vidyapeeth College of Engineering (BVCOE)**
+4. **Bharati Vidyapeeth College of Engineering (BVCOE)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/bvcoe.jpeg" height="" alt="vivek"></a></p>
@@ -67,7 +67,7 @@
      - Civil Engineering: 96.0+
      - Other branches: Information not available
 
-9. **Vishwakarma Institute of Technology (VIT), Pune**
+5. **Vishwakarma Institute of Technology (VIT), Pune**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vit.jpg" height="" alt="vivek"></a></p>
@@ -85,7 +85,7 @@
      - Other branches: Information not available
 
 ### Mumbai
-6. **Veermata Jijabai Technological Institute (VJTI Mumbai)**
+1. **Veermata Jijabai Technological Institute (VJTI Mumbai)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vjti.jpeg" height="" alt="vivek"></a></p>
@@ -103,7 +103,7 @@
      - Civil: 98.2+
      - Electrical: 97.7+
 
-8. **Institute of Chemical Technology (ICT Mumbai)**
+2. **Institute of Chemical Technology (ICT Mumbai)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/ict.jpg" height="" alt="vivek"></a></p>
@@ -116,7 +116,7 @@
    - **Festivals:** Chemfest
    - **Branch Cut-offs (MHT CET, percentile):** Not Applicable
 
-10. **KJ Somaiya College of Engineering**
+3. **KJ Somaiya College of Engineering**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/kj.jpeg" height="" alt="vivek"></a></p>
@@ -129,7 +129,7 @@
    - **Festivals:** KJS MUTFEST
    - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-11. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
+4. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
 <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/frc.jpeg" height="" alt="vivek"></a></p>
@@ -144,7 +144,7 @@
 
 ### Nagpur
 
-10. **Visvesvaraya National Institute of Technology (VNIT Nagpur)**
+1. **Visvesvaraya National Institute of Technology (VNIT Nagpur)**
        <p align="center">
          <a href="https://github.com/AryanVBw"><img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vnit.jpeg" height="" alt="vivek"></a></p>
          
@@ -156,7 +156,7 @@
     - **Festivals:** Ingenium
     - **Branch Cut-offs (MHT CET, percentile):** Not Applicable (considers JEE scores only)
 
-12. **Government College of Engineering Nagpur (GCOEN)**
+2. **Government College of Engineering Nagpur (GCOEN)**
        <p align="center">
       <a href="https://github.com/AryanVBw">
        <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/gcoen.jpeg" height="" alt="vivek"></a></p>
@@ -169,7 +169,7 @@
     - **Festivals:** Techno-GCT
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-14. **Shri Ramdeobaba College of Engineering and Management (SRCOE Nagpur)**
+3. **Shri Ramdeobaba College of Engineering and Management (SRCOE Nagpur)**
 
      <p align="center">
              <a href="https://github.com/AryanVBw">
@@ -183,7 +183,7 @@
     - **Festivals:** Abhyudaya
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-16. **Laxminarayan Institute of Technology (LIT Nagpur)**
+4. **Laxminarayan Institute of Technology (LIT Nagpur)**
     - Entrance Exam: MHT CET
     - Minimum Percentile (MHT CET): 92+ (General)
     - Fees (approx. per year): ₹70,000
@@ -192,7 +192,7 @@
     - Festivals: TechnoVIT
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-17. **Nagpur Institute of Technology (NIT Nagpur)**
+5. **Nagpur Institute of Technology (NIT Nagpur)**
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 90+ (General)
     - **Fees (approx. per year):** ₹65,000
