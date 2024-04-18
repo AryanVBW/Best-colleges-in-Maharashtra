@@ -88,7 +88,7 @@
 6. **Veermata Jijabai Technological Institute (VJTI Mumbai)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+<img src="https://github.com/AryanVBW/Best-colleges-in-Maharashtra/blob/f06093d60716470946f1b21992a027b4ab8f64a9/Photos/vjti.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 99.7+ (General)
