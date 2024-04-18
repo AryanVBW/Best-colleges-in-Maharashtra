@@ -1,7 +1,14 @@
 🎓 **Best Engineering Colleges in Maharashtra**
+ <p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
 
 ### Pune
 1. **College of Engineering Pune (COEP)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 99.8+ (General)
    - **Fees (approx. per year):** ₹1.20 Lakhs
@@ -15,7 +22,11 @@
      - Civil: 98.5+
      - Electrical: 98.0+
 
-2. **Symbiosis Institute of Technology (SIT Pune)**
+3. **Symbiosis Institute of Technology (SIT Pune)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.0+ (General)
    - **Fees (approx. per year):** ₹1.50 Lakhs
@@ -24,7 +35,11 @@
    - **Festivals:** Symbiosis Techfest
    - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-3. **Pune Institute of Computer Technology (PICT)**
+5. **Pune Institute of Computer Technology (PICT)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.5+ (General)
    - **Fees (approx. per year):** ₹1.30 Lakhs
@@ -35,7 +50,11 @@
      - Computer Science & Engineering: 98.5+
      - Other branches: Information not available
 
-4. **Bharati Vidyapeeth College of Engineering (BVCOE)**
+7. **Bharati Vidyapeeth College of Engineering (BVCOE)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 97.0+ (General)
    - **Fees (approx. per year):** ₹1.00 Lakhs
@@ -48,7 +67,11 @@
      - Civil Engineering: 96.0+
      - Other branches: Information not available
 
-5. **Vishwakarma Institute of Technology (VIT), Pune**
+9. **Vishwakarma Institute of Technology (VIT), Pune**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 96.0+ (General)
    - **Fees (approx. per year):** ₹80,000
@@ -63,6 +86,10 @@
 
 ### Mumbai
 6. **Veermata Jijabai Technological Institute (VJTI Mumbai)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/LinuxDroid/main/LinuxDroid/Arrow/1024arow2.png" height="250" alt="vivek"></a></p>
+
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 99.7+ (General)
    - **Fees (approx. per year):** ₹1.0 Lakhs
@@ -76,7 +103,7 @@
      - Civil: 98.2+
      - Electrical: 97.7+
 
-7. **Institute of Chemical Technology (ICT Mumbai)**
+8. **Institute of Chemical Technology (ICT Mumbai)**
    - **Entrance Exam:** JEE Main
    - **Minimum Percentile (MHT CET):** Not Applicable (considers JEE scores only)
    - **Fees (approx. per year):** ₹80,000
@@ -85,7 +112,7 @@
    - **Festivals:** Chemfest
    - **Branch Cut-offs (MHT CET, percentile):** Not Applicable
 
-8. **KJ Somaiya College of Engineering**
+9. **KJ Somaiya College of Engineering**
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 98.5+ (General)
    - **Fees (approx. per year):** ₹1.20 Lakhs
@@ -94,7 +121,7 @@
    - **Festivals:** KJS MUTFEST
    - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-9. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
+10. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 97.5+ (General)
    - **Fees (approx. per year):** ₹85,000
