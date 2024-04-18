@@ -132,7 +132,7 @@
 11. **Fr. Conceicao Rodrigues Institute of Technology (FRCEIT)**
 <p align="center">
    <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/krc.jpeg" height="" alt="vivek"></a></p>
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/frc.jpeg" height="" alt="vivek"></a></p>
 
    - **Entrance Exam:** MHT CET
    - **Minimum Percentile (MHT CET):** 97.5+ (General)
@@ -144,6 +144,9 @@
 
 ### Nagpur
 10. **Visvesvaraya National Institute of Technology (VNIT Nagpur)**
+ <p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vnit.jpeg" height="" alt="vivek"></a></p>
 
     - **Entrance Exam:** JEE Main & GATE
     - **Minimum Percentile (MHT CET):** 85+ (General) for B.Tech
@@ -154,9 +157,10 @@
     - **Branch Cut-offs (MHT CET, percentile):** Not Applicable (considers JEE scores only)
 
 12. **Government College of Engineering Nagpur (GCOEN)**
-
-
-   - **Entrance Exam:** MHT CET
+ <p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/gcoen.jpeg" height="" alt="vivek"></a></p>
+    - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 95+ (General)
     - **Fees (approx. per year):** ₹50,000
     - **Avg Package (approx.):** ₹6.0 Lakhs
@@ -165,6 +169,9 @@
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
 14. **Shri Ramdeobaba College of Engineering and Management (SRCOE Nagpur)**
+<p align="center">
+   <a href="https://github.com/AryanVBw">
+<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/rcoem.jpeg" height="" alt="vivek"></a></p>
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 94+ (General)
     - **Fees (approx. per year):** ₹80,000
@@ -173,7 +180,7 @@
     - **Festivals:** Abhyudaya
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-15. **Laxminarayan Institute of Technology (LIT Nagpur)**
+16. **Laxminarayan Institute of Technology (LIT Nagpur)**
     - Entrance Exam: MHT CET
     - Minimum Percentile (MHT CET): 92+ (General)
     - Fees (approx. per year): ₹70,000
@@ -182,7 +189,7 @@
     - Festivals: TechnoVIT
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
-16. **Nagpur Institute of Technology (NIT Nagpur)**
+17. **Nagpur Institute of Technology (NIT Nagpur)**
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 90+ (General)
     - **Fees (approx. per year):** ₹65,000
