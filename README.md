@@ -143,10 +143,11 @@
    - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
 ### Nagpur
+
 10. **Visvesvaraya National Institute of Technology (VNIT Nagpur)**
- <p align="center">
-   <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vnit.jpeg" height="" alt="vivek"></a></p>
+        <p align="center">
+         <a href="https://github.com/AryanVBw"><img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/vnit.jpeg" height="" alt="vivek"></a></p>
+         
     - **Entrance Exam:** JEE Main & GATE
     - **Minimum Percentile (MHT CET):** 85+ (General) for B.Tech
     - **Fees (approx. per year):** ₹1.0 Lakhs
@@ -156,9 +157,10 @@
     - **Branch Cut-offs (MHT CET, percentile):** Not Applicable (considers JEE scores only)
 
 12. **Government College of Engineering Nagpur (GCOEN)**
- <p align="center">
-   <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/gcoen.jpeg" height="" alt="vivek"></a></p>
+       <p align="center">
+      <a href="https://github.com/AryanVBw">
+       <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/gcoen.jpeg" height="" alt="vivek"></a></p>
+  
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 95+ (General)
     - **Fees (approx. per year):** ₹50,000
@@ -168,9 +170,10 @@
     - **Branch Cut-offs (MHT CET, percentile):** Information not available
 
 14. **Shri Ramdeobaba College of Engineering and Management (SRCOE Nagpur)**
-<p align="center">
-   <a href="https://github.com/AryanVBw">
-<img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/rcoem.jpeg" height="" alt="vivek"></a></p>
+             <p align="center">
+             <a href="https://github.com/AryanVBw">
+        <img src="https://raw.githubusercontent.com/AryanVBW/Best-colleges-in-Maharashtra/main/Photos/rcoem.jpeg" height="" alt="vivek"></a></p>
+
     - **Entrance Exam:** MHT CET
     - **Minimum Percentile (MHT CET):** 94+ (General)
     - **Fees (approx. per year):** ₹80,000
